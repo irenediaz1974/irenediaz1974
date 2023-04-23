@@ -1,4 +1,13 @@
-### Hi there 👋
+# Data Science Projects
+
+### I’m currently working on ML Projects. 
+
+## Projects:
++ K_means for classification.
+
+## Platforms
+
+
 
 <!--
 **irenediaz1974/irenediaz1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
