@@ -7,7 +7,7 @@
 + K_means for classification.
 [K_means for classification](K_means_project.ipynb)
 
-![Bank-note dataset with 5 clusters.](/images/image3.png)
+![Bank-note dataset with 5 clusters.](/images/image3.jpg)
 
 ## Platforms
 
