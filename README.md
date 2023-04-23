@@ -3,8 +3,9 @@
 ### I’m currently working on ML Projects. 
 
 ## Projects:
-+ K_means for classification.
 
++ K_means for classification.
+[K_means for classification](Proyecto_Kmeans.html)
 ## Platforms
 
 
