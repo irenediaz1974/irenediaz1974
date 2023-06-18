@@ -1,6 +1,7 @@
 # Data Science Projects
 
-### I’m currently learning ML Projects. 
+### This is an ML Project in Python with Jupyter Notebook. 
+
 
 ## Projects:
 
