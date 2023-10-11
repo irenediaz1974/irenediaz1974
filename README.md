@@ -1,6 +1,6 @@
 # Data Science Projects
 
-### This is an ML Project in Python with Jupyter Notebook. 
+### ML Project in Python with Jupyter Notebook. 
 
 
 ## Projects:
