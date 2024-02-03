@@ -1,17 +1,16 @@
 # Data Science Projects
 
-### ML Project in Python with Jupyter Notebook. 
-
-
 ## Projects:
 
-+ Readability. (Project for cs50)
+### ML Project in Python with Flask & Jinja. 
++ Readability. (Project for cs50x 2023)
 
   [Readability](K_means_project.ipynb)
-
+  #### Este proyecto está hecho en Flask y utiliza técnicas de procesamiento del lenguaje natural implementadas con la biblioteca NLTK de Python y Beautiful Soup. (web scraping)
  
     ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
 
+  ### ML Project in Python with Jupyter Notebook.
 + K_means for classification. (Project for Coursera)
 
   [K_means for classification](K_means_project.ipynb)
