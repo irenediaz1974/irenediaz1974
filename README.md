@@ -9,7 +9,7 @@
   
   #### Este proyecto está hecho en Flask y utiliza técnicas de procesamiento del lenguaje natural implementadas con la biblioteca NLTK de Python y Beautiful Soup. (web scraping)
  
-    ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
+    ![Logo Aplicación.](/../../../CS50/blob/main/project/img/Readability.png)
 
   ### ML Project in Python with Jupyter Notebook.
 + K_means for classification. (Project for Coursera)
