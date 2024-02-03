@@ -5,7 +5,7 @@
 ### ML Project in Python with Flask & Jinja. 
 + Readability. (Project for cs50x 2023)
 
-  [Readability](project/README.md)
+  [Readability](CS50/blob/main/project/README.md)
   #### Este proyecto está hecho en Flask y utiliza técnicas de procesamiento del lenguaje natural implementadas con la biblioteca NLTK de Python y Beautiful Soup. (web scraping)
  
     ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
