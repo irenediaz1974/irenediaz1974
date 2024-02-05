@@ -14,7 +14,9 @@
   + Javascript
   + Flask
   + Jinja2
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+ 
+    
+ [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
  
   
   * * *
