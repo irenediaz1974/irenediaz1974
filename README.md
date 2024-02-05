@@ -12,7 +12,8 @@
   + HTML
   + CSS
   + Javascript
-  ![flask_logo](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![html_logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![flask_logo](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   + Jinja2
  
    
