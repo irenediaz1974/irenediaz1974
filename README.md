@@ -15,10 +15,7 @@
   + Flask
   + Jinja2
  
-    
- [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
- 
-  
+   
   * * *
 
 ### ML Project in Python with Jupyter Notebook.
@@ -33,10 +30,12 @@
 #### Tecnologías
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+
 
 * * *
+
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
 <!--
 **irenediaz1974/irenediaz1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
