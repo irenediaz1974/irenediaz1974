@@ -27,9 +27,9 @@
  
     ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
 
-## Platforms
+#### Tecnologías
 
-
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 <!--
 **irenediaz1974/irenediaz1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
