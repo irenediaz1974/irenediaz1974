@@ -13,7 +13,8 @@
   
   * * *
 
-  ### ML Project in Python with Jupyter Notebook.
+### ML Project in Python with Jupyter Notebook.
+
 + K_means for classification. (Project for Coursera)
 
   [K_means for classification](K_means_project.ipynb)
