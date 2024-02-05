@@ -30,6 +30,7 @@
 #### Tecnologías
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 <!--
 **irenediaz1974/irenediaz1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
