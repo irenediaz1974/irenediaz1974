@@ -12,10 +12,10 @@
   + HTML
   + CSS
   + Javascript
-
-![flask_logo](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  + flask
+  + Jinja
  
- 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
    
 * * *
 
