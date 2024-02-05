@@ -8,7 +8,7 @@
 
    ![Logo Aplicación.](/../../../CS50/blob/main/project/static/img/1.png) [Readability](/../../../CS50/blob/main/project/README.md)
   
-  #### Utilizando Flask, Jinja, HTML, CSS, JavaScript
+  #### Python, Flask, Jinja, HTML, CSS, JavaScript
  
   
   * * *
