@@ -6,12 +6,12 @@
 
 + Readability. (Project for cs50x 2023)
 
-   ![Logo Aplicación.](/../../../CS50/blob/main/project/static/img/Readability.png) [Readability](/../../../CS50/blob/main/project/README.md)
+   ![Logo Aplicación.](/../../../CS50/blob/main/project/static/img/1.png) [Readability](/../../../CS50/blob/main/project/README.md)
   
   #### Utilizando Flask, Jinja, HTML, CSS, JavaScript
  
   
-  
+  * * *
 
   ### ML Project in Python with Jupyter Notebook.
 + K_means for classification. (Project for Coursera)
