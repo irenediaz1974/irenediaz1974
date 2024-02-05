@@ -12,11 +12,11 @@
   + HTML
   + CSS
   + Javascript
-  + Flask
+  ![flask_logo](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   + Jinja2
  
    
-  * * *
+* * *
 
 ### ML Project in Python with Jupyter Notebook.
 
