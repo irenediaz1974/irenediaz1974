@@ -2,12 +2,13 @@
 
 ## Projects:
 
-### ML Project in Python with Flask & Jinja. 
+### Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
+
 + Readability. (Project for cs50x 2023)
 
    ![Logo Aplicación.](/../../../CS50/blob/main/project/static/img/Readability.png) [Readability](/../../../CS50/blob/main/project/README.md)
   
-  #### Este proyecto está hecho en Flask y utiliza técnicas de procesamiento del lenguaje natural implementadas con la biblioteca NLTK de Python y Beautiful Soup. (web scraping)
+  #### Utilizando Flask, Jinja, HTML, CSS, JavaScript
  
   
   
