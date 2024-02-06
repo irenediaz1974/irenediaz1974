@@ -4,7 +4,8 @@
 
 ### Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
 
-+ Readability. (Project for cs50x 2023)
++ Readability.
+  [Project for cs50x 2023](/../../../../CS50/blob/project/README.md)
 
    ![Readability_imagen](/images/image5.png)
   
