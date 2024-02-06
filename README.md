@@ -2,7 +2,7 @@
 
 ## Projects:
 
-### Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
+### 2023 - Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
 
 + Readability.
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
@@ -21,7 +21,7 @@
    
 * * *
 
-### ML Project in Python with Jupyter Notebook.
+### 2023- ML Project in Python with Jupyter Notebook.
 
 + K_means for classification. (Project for Coursera)
 
