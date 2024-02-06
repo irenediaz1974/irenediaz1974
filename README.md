@@ -8,7 +8,7 @@
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
   
 
-   ![Readability_imagen](/images/image5.png)
+     ![Readability_imagen](/images/image5.png)
   
   #### Tecnologías
   + HTML
@@ -28,7 +28,7 @@
   [K_means for classification](K_means_project.ipynb)
 
  
-    ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
+      ![Bank-note dataset with 5 clusters.](/images/image3.jpg)
 
 #### Tecnologías
 
