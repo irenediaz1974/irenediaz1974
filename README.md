@@ -6,7 +6,7 @@
 
 + Readability. (Project for cs50x 2023)
 
-   ![Readability_imagen](/images/image5.jpg)
+   ![Readability_imagen](/images/image5.png)
   
   #### Tecnologías
   + HTML
