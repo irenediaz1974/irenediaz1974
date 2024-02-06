@@ -6,7 +6,7 @@
 
 + Readability. (Project for cs50x 2023)
 
-   ![Logo Aplicación.](/../../../CS50/blob/main/project/static/img/1.png) [Readability](/../../../CS50/blob/main/project/README.md)
+   ![Readability_imagen](/images/image5.jpg)
   
   #### Tecnologías
   + HTML
