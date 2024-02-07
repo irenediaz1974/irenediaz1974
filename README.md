@@ -1,8 +1,9 @@
-# Data Science Projects
+# Proyectos de Ciencia de datos.
 
-## Projects:
+## Proyectos:
 ![div](/images/image1.png)
-### 2023 - Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
+### 2023 - Análisis de sentimiento en textos (positivo, negativo y neutro) y obtención de NER.
+. Utilizando las librerias NLTK para el análisis y Beautiful Soup para realizarr web scraping.
 
 + Readability.
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
