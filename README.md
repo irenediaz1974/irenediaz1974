@@ -1,7 +1,7 @@
 # Proyectos de Ciencia de datos.
 ![div](/images/image1.png)
 
-## 2023 - Análisis de sentimiento en textos (positivo, negativo y neutro) y obtención de NER.
+## 2023 - Análisis de sentimiento en textos (positivo, negativo, neutro) y obtención de NER.
 . Utilizando las librerias NLTK para el análisis y Beautiful Soup para realizar web scraping.
 
 + Readability.
