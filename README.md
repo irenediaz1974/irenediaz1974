@@ -1,9 +1,8 @@
 # Proyectos de Ciencia de datos.
-
-## Proyectos:
 ![div](/images/image1.png)
-### 2023 - Análisis de sentimiento en textos (positivo, negativo y neutro) y obtención de NER.
-. Utilizando las librerias NLTK para el análisis y Beautiful Soup para realizarr web scraping.
+
+## 2023 - Análisis de sentimiento en textos (positivo, negativo y neutro) y obtención de NER.
+. Utilizando las librerias NLTK para el análisis y Beautiful Soup para realizar web scraping.
 
 + Readability.
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
@@ -11,7 +10,7 @@
 
      ![Readability_imagen](/images/image6.png)
   
-  #### Tecnologías
+  ### Tecnologías
   + HTML
   + CSS
   + Javascript
@@ -22,7 +21,7 @@
    
 * * *
 
-### ML Project in Python with Jupyter Notebook.
+## ML Project in Python with Jupyter Notebook.
 
 + K_means for classification. (Project for Coursera)
 
@@ -31,7 +30,7 @@
  
   ![Bank-note dataset with 5 clusters](/images/image3.jpg)
 
-#### Tecnologías
+### Tecnologías
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
