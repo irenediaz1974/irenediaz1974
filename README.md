@@ -1,14 +1,14 @@
 # Data Science Projects
 
 ## Projects:
-
+![div](/images/image1.png)
 ### 2023 - Proyecto para análisis de textos. Utilizando NLTK y Beautiful Soup para web scraping.
 
 + Readability.
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
   
 
-     ![Readability_imagen](/images/image1.png)
+     ![Readability_imagen](/images/image6.png)
   
   #### Tecnologías
   + HTML
