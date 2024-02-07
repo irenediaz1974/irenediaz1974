@@ -8,7 +8,7 @@
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
   
 
-     ![Readability_imagen](/images/image5.png)
+     ![Readability_imagen](/images/image1.png)
   
   #### Tecnologías
   + HTML
