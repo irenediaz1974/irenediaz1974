@@ -1,9 +1,9 @@
 # Proyecto actual
-- 🔭 I’m currently working on CS50w Projects
+- :construction: I’m currently working on *CS50’s Web Programming with Python and JavaScript*
 - [Proyecto Curso Web](/../../../../irenediaz1974/web50/blob/main/README.md)
 
 
-# Proyectos de Ciencia de datos.
+# Proyectos de Ciencia de datos .
 ![div](/images/image1.png)
 
 ## 2023 - Análisis de sentimiento en textos (positivo, negativo, neutro) y obtención de NER.
