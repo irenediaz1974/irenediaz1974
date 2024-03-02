@@ -1,3 +1,8 @@
+# Proyecto actual
+- 🔭 I’m currently working on CS50w Projects
+- [Proyecto Curso Web](/../../../../irenediaz1974/web50/blob/main/README.md)
+
+
 # Proyectos de Ciencia de datos.
 ![div](/images/image1.png)
 
