@@ -8,7 +8,7 @@
 
 ## 2023 - Análisis de sentimiento en textos (positivo, negativo, neutro) y obtención de NER.
 . Utilizando las librerias NLTK para el análisis y Beautiful Soup para realizar web scraping.
-
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 + Readability.
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
   
