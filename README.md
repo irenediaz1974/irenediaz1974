@@ -14,7 +14,7 @@
   [Proyecto](/../../../../irenediaz1974/CS50/blob/main/project/README.md)
   
 
-     ![Readability_imagen](/images/image6.png)
+     ![Readability_imagen](/images/aplicacion.png)
   
   ### Tecnologías
   + HTML
